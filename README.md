@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">⚽ Virtual Match Engine: Commits FC vs Bugs United</h3>
+<h3 align="center"> Virtual Match Engine: Commits FC vs Bugs United</h3>
 
 <p align="center">
   <em>A live simulation where every commit, merge, and build becomes part of the match.</em>
@@ -20,7 +20,7 @@
 │   Commits FC                         Bugs United             │
 │   ──────────                         ───────────             │
 │                                                              │
-│   Backend API       ⚽──────▶         Runtime Error           │
+│   Backend API       ──────▶         Runtime Error           │
 │   Graph Algorithms  ───────▶         Edge Case               │
 │   Cloud Systems     ───────▶         Latency Spike            │
 │   ML Models         ───────▶         Data Drift               │
